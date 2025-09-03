@@ -47,6 +47,15 @@ let age = 10;
 let state = age >= 18 ? "You are an adult." : "You are a minor.";
 console.log(state);
 
+
+//increment and Decrement Operators
+let i = 0;
+console.log("i++ =", i++); // Post-increment
+console.log("++i =", ++i); // Pre-increment
+console.log("i-- =", i--); // Post-decrement
+console.log("--i =", --i); // Pre-decrement
+
+
 /* we explore
 1. Arithmetic Operators
 2. Comparison Operators
