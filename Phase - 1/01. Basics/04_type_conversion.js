@@ -50,3 +50,10 @@ if (Boolean("John")) console.log("it will run");
 let age = 50;
 console.log(`you are ${age} years old`); // you are &{age} years old
 
+/* we explored
+1. Explicit Type Conversion
+2. Implicit Type Conversion
+3. parseInt and parseFloat
+4. Boolean conversion in condition
+5. Template Literals
+*/
